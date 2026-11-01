@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s04TnjZ11No=",
+  "dgSpecHash": "aSIinYq+4U4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sanch\\OneDrive\\Desktop\\BYU - Idaho\\CSE325 - .NET Software Development\\DotNetDependencies\\DotNetDependencies.csproj",
+  "projectFilePath": "C:\\Users\\sanch\\OneDrive\\Desktop\\BYU - Idaho\\CSE325 - .NET Software Development\\cse325-week1\\DotNetDependencies\\DotNetDependencies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sanch\\.nuget\\packages\\humanizer\\3.0.10\\humanizer.3.0.10.nupkg.sha512",
     "C:\\Users\\sanch\\.nuget\\packages\\humanizer.core\\3.0.10\\humanizer.core.3.0.10.nupkg.sha512",

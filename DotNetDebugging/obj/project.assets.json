@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Desktop\\BYU - Idaho\\CSE325 - .NET Software Development\\DotNetDebugging\\DotNetDebugging.csproj",
+      "projectUniqueName": "C:\\Users\\sanch\\OneDrive\\Desktop\\BYU - Idaho\\CSE325 - .NET Software Development\\cse325-week1\\DotNetDebugging\\DotNetDebugging.csproj",
       "projectName": "DotNetDebugging",
-      "projectPath": "C:\\Users\\sanch\\OneDrive\\Desktop\\BYU - Idaho\\CSE325 - .NET Software Development\\DotNetDebugging\\DotNetDebugging.csproj",
+      "projectPath": "C:\\Users\\sanch\\OneDrive\\Desktop\\BYU - Idaho\\CSE325 - .NET Software Development\\cse325-week1\\DotNetDebugging\\DotNetDebugging.csproj",
       "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanch\\OneDrive\\Desktop\\BYU - Idaho\\CSE325 - .NET Software Development\\DotNetDebugging\\obj\\",
+      "outputPath": "C:\\Users\\sanch\\OneDrive\\Desktop\\BYU - Idaho\\CSE325 - .NET Software Development\\cse325-week1\\DotNetDebugging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
