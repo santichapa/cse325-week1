@@ -1,0 +1,14 @@
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\bin\release\net10.0\DotNetDebugging.exe
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\bin\release\net10.0\DotNetDebugging.deps.json
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\bin\release\net10.0\DotNetDebugging.runtimeconfig.json
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\bin\release\net10.0\DotNetDebugging.dll
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\bin\release\net10.0\DotNetDebugging.pdb
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\DotNetDebugging.dll
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\refint\DotNetDebugging.dll
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\DotNetDebugging.pdb
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\sanch\OneDrive\Desktop\BYU - Idaho\CSE325 - .NET Software Development\DotNetDebugging\obj\release\net10.0\ref\DotNetDebugging.dll
